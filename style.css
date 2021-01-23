@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blue;
+    padding: 5px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+}
+
+header p {
+    margin: 5px;
+}
+
+main h1 {
+    text-align: center;
+    color: orangered;
+    border: 2px solid steelblue;
+}
+
+footer p {
+    border: 2px solid rgba(79, 82, 83, 0.185);
+    margin: 20px;
+    padding: 5px;
+}
+
+.skasdoa {
+    border: 2px solid rgba(79, 82, 83, 0.185);
+    margin: 30px;
+    padding: 5px;
+}
+
+nav {
+    margin: 10px;
+}
+nav a{
+    margin: 10px;
+    text-decoration: none;
+    border: 2px solid #00FA9A;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.peta {
+    margin: 25px;
+    border: 2px solid #00FA9A;
+    padding: 10px;
+    border-radius: 10px;
+}
+.imf {
+    border: 2px solid #00FA9A;
+    border-radius: 10px;
+}
+
+.kok {
+    text-decoration: none;
+    border: 2px solid #00FA9A;
+    padding: 5px;
+}
+
+.eded {
+    text-decoration: none;
+    border: 2px solid #00FA9A;
+    padding: 5px;
+}
